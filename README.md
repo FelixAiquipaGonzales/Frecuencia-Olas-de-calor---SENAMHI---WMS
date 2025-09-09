@@ -96,6 +96,7 @@ Proyecto de carrera de Geomatica.
 ```
 
 ###Empresa desarrolladora - XGEOESPACE.
+
 Exploration of Geomatics in Space Technology.
 Imagen: Logo de la empresa a cargo del desarrollo.
 
