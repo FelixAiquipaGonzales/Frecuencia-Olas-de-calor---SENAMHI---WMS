@@ -95,8 +95,8 @@ Proyecto de carrera de Geomatica.
 </html>
 ```
 
-###Imagen del proyecto
-
-Imagen: Geovisor interactivo.
+###Empresa desarrolladora - XGEOESPACE.
+Exploration of Geomatics in Space Technology.
+Imagen: Logo de la empresa a cargo del desarrollo.
 
 ![](https://felix-aiquipa-gonzales.web.app/Imagenes/Aiquipa.jpg)
