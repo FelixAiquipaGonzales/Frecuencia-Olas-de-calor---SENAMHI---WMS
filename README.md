@@ -15,8 +15,7 @@ Apoya en la monitorización y estudio detallado del clima, patrones hidrológico
 # GEOVISOR INTERACTIVO DE WEB MAPPING - FRECUENCIA DE OLAS DE CALOR
 
 ![](https://www.gob.pe/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTMzMTQsInB1ciI6ImJsb2JfaWQifX0=--6fb0c941e8723378a0e3759d7726f076093a3452/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOltudWxsLDQ4XX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--830247c4bafe7cadca50817d8559bf1a09e3aa28/logo-Senamhi_gob_pe.png)
-![](https://www.greentrends.com.pe/wp-content/uploads/2022/03/clientes-6.png)
-![](https://felix-aiquipa-gonzales.web.app/Imagenes/Aiquipa.jpg)
+
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
