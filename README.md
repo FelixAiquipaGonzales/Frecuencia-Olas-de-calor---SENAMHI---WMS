@@ -27,8 +27,6 @@ Proyecto de carrera de Geomatica.
                     
 > "Geovisor Publicado en WEB", [Link](https://frecuenciaolas-decalor-aiquipa.web.app/)。
 
-
-
 ####HTML code
 
 ```html
@@ -101,4 +99,4 @@ Proyecto de carrera de Geomatica.
 
 Imagen: Geovisor interactivo.
 
-![](https://drive.google.com/file/d/1LQ6Zb_BXGYngOIRD0k_YmhVEQIpyy9d6/view?usp=sharing)
+![](https://felix-aiquipa-gonzales.web.app/Imagenes/Aiquipa.jpg)
