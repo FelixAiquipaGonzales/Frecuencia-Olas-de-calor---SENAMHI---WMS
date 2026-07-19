@@ -99,7 +99,5 @@ Proyecto de carrera de Geomatica.
 
 Exploration of Geomatics in Space Technology.
 
-> "Pagina de la empresa", [Link](https://felix-aiquipa-gonzales.web.app/)
+> "Pagina de la empresa", [Link](https://xgeospace.web.app/)
 Imagen: Logo de la empresa a cargo del desarrollo.
-
-![](https://felix-aiquipa-gonzales.web.app/Imagenes/Aiquipa.jpg)
